@@ -8,3 +8,13 @@ body {
   background: #e6e6e6;
   font-family: 'Playfair Display', serif;
 }
+
+#main {
+  margin: 1rem 0;
+  padding: 1rem;
+}
+
+
+#title {
+  color: red;
+}
