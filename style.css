@@ -1,17 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
-.container{
-    display: flex;
-    align-items: center;
-    font-size: 11px;
-    font-style: italic;
-    text-shadow: 0 0 .3em rgb(30, 49, 43);
-}
-img{
-    max-width: 30%;
-    vertical-align: top;
-}
-h1{
-    text-align: center;
-    font-weight: 5vm;
-    color: red;
+html {
+  font-size: 16px;
 }
