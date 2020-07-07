@@ -1,3 +1,4 @@
 # HERITAGEALABI-article
 
-Challenge 0 of the #30daysofcode challenge by ECE Unilag
+Challenge 1 of the #30daysofcode challenge by ECX Unilag
+https://heritagealabi.github.io/HERITAGEALABI-article/
